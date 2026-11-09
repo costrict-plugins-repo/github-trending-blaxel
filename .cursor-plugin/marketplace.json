@@ -1,0 +1,14 @@
+{
+  "name": "blaxel",
+  "owner": {
+    "name": "Blaxel",
+    "email": "support@blaxel.ai"
+  },
+  "plugins": [
+    {
+      "name": "blaxel",
+      "description": "Build and deploy AI agents on Blaxel. Bundles the hosted Blaxel MCP server for managing workspace resources, the SDK skill for creating cloud sandboxes (microVMs) with live preview URLs and shared Agent Drives, and the CLI skill for deploying agents, sandboxes, jobs, and MCP servers from the command line.",
+      "source": "./"
+    }
+  ]
+}
